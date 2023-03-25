@@ -1,16 +1,29 @@
-### Hi there 👋
+<div>
+    <a target='_blank' href="https://www.instagram.com/gabriel_ttoledo/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://www.linkedin.com/in/gabriel-toledo-13770124a/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
 
-<!--
-**GabrielToledo01/GabrielToledo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there 👋
 
-Here are some ideas to get you started:
+I don't really know how u got here, but I will try to show a little bit about myself for you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public information
+
+My name is Gabriel Toledo. I currently live in Viçosa, Brazil and i am studying systems analysis and systems development
+## Detailed information
+
+* **Name**: Gabriel Toledo
+* **Age**: 21
+* **Living in**: Viçosa - MG, Brazil
+* **Stack**: PHP - Codeigniter 4 - SQL - Python
+* **University**: Unicosa
+
+## Curiosities about me
+
+* I did 6 years of taekwondo and I always like to do sports;
+* When I was a kid, I was always curious about how technologies worked and since then I've always researched technologies, even though I don't understand much about them.😓;
+* I like to talk about technology and video games;
