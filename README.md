@@ -25,5 +25,5 @@ My name is Gabriel Toledo. I currently live in Viçosa, Brazil and i am studying
 ## Curiosities about me
 
 * I did 6 years of taekwondo and I always like to do sports;
-* When I was a kid, I was always curious about how technologies worked and since then I've always researched technologies, even though I don't understand much about them.😓;
+* When I was a kid, I was always curious about how technologies worked and since then I've always researched technologies, even though I don't understand much about them;😓
 * I like to talk about technology and video games;
