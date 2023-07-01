@@ -19,7 +19,7 @@ My name is Gabriel Toledo. I currently live in Viçosa, Brazil and i am studying
 * **Name**: Gabriel Toledo
 * **Age**: 21
 * **Living in**: Viçosa - MG, Brazil
-* **Stack**: PHP - SQL - Python
+* **Stack**: PHP - SQL - Python- HTML-CSS
 * **University**: Univicosa 
 
 ## Curiosities about me
