@@ -13,7 +13,7 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is Gabriel Toledo. I currently live in Viçosa, Brazil and i am studying systems analysis and systems development
+My name is Gabriel Toledo. I currently live in Viçosa, Brazil, and I am a graduate in Systems Analysis and Development with a strong interest in front-end development and UI/UX design.
 ## Detailed information
 
 * **Name**: Gabriel Toledo
